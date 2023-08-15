@@ -4,7 +4,6 @@
     width: 100%;
     background-color: lime;
 }
-
 .m3 {
     position: absolute;
     right: 0;
@@ -12,7 +11,6 @@
     line-height: 70px;
     font-family: 'Courier New', Courier, monospace;
 }
-
 .m2 {
     background-image: url(img1.jpeg);
     background-size: cover;
@@ -27,32 +25,26 @@
     transition: 3s;
     background-color: white;
 }
-
 .m2:hover {
     border-radius: 50%;
     box-shadow: 2px 2px 2px 2px black;
 }
-
 .m4 {
     width: 100%;
     height: 500px;
     background-color: white;
 }
-
 .f1 {
     position: absolute;
 }
-
 .a1 {
     margin-top: 70px;
     margin-left: 200px;
 }
-
 .a2 {
     margin-top: 70px;
     margin-left: 1070px;
 }
-
 .m5 {
     width: 200px;
     height: 200px;
@@ -65,7 +57,6 @@
     transition: 3s;
     background-color: white;
 }
-
 .m6 {
     width: 200px;
     height: 200px;
@@ -78,13 +69,11 @@
     transition: 3s;
     background-color: white;
 }
-
 .m5:hover,
 .m6:hover {
     border-radius: 50%;
     box-shadow: 2px 2px 2px 2px black;
 }
-
 .m7 {
     width: 250px;
     position: absolute;
@@ -95,7 +84,6 @@
     background-color: white;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-
 .m8 {
     width: 250px;
     position: absolute;
@@ -106,7 +94,6 @@
     background-color: white;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-
 .m9 {
     text-align: center;
     line-height: 70px;
